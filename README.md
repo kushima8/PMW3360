@@ -1,8 +1,11 @@
 # **PMW3360**
-PMW3360 breakout board for trackball/mouse. Compatible with 1.8V - 5.5V Vcc.
-![](/img/sensor1.jpg)
 
-## [Project page on EasyEDA](https://easyeda.com/pigboard/pmw3360-sensor-board)
+## Open Json files with EasyEDA.
+### ・SCH_PMW3360_Sensor Board.json
+### ・PCB_PMW3360_Sensor Board.json
+
+PMW3360 breakout board for trackball/mouse. Compatible with 1.8V - 5.5V Vcc.
+![](https://user-images.githubusercontent.com/58157342/185282034-b1b37cc1-6474-4baf-a6f9-b1038cea2af9.jpg)
 
 ## **BOM**
 |Name                       |Value  |Footprint  |Qty    |
@@ -20,22 +23,3 @@ PMW3360 breakout board for trackball/mouse. Compatible with 1.8V - 5.5V Vcc.
 |R8                         |30.1k  |0805       |1      |
 |U1,U3                      |       |SOT23      |2      |
 |PMW3360 + lens             |       |           |1      |
-
-Optional (for easier prototyping)
-|Name               |Qty   | Notes |
-|:---:              |:---: |:---   |
-|H1                 |1     |8 pin (2x4) 2.54 pitch male through hole pin header|
-
-Remarks:
-*   PCB/Holes are the same size/placement as for [ADNS-9800](https://github.com/kbjunky/ADNS9800) thus making it easier to swap sensors for existing projects
-*   Diodes are 3.3V Zener diodes
-*   U1, U3 are TPS73601DBVR LDO volatge stabilizers
-*   8 pin male header is usefull for prototyping when sensor has to be switched between many MCUs
-*   Sensor together with the lens can be obtained from [Aliexpress](https://www.aliexpress.com/item/33056166849.html?spm=a2g0o.productlist.0.0.38b76a63WwCLxK&algo_pvid=fbcd6a66-b324-4e10-9381-b374719f1ea1&algo_exp_id=fbcd6a66-b324-4e10-9381-b374719f1ea1-1)
-
-## For ordering tips check description for [ADNS-9800](https://github.com/kbjunky/ADNS9800)
-
-
-
-
-
