@@ -17,7 +17,7 @@
 左：ローマウント  右：ハイマウント  
 ![001](https://github.com/kushima8/Reex/assets/58157342/8a78b063-16f9-4286-8d3e-3098f63cdd9f)
 
-※以下のPro Microでのみ動作確認済み
+※以下のPro Microでのみ動作確認済み  
 　https://shop.yushakobo.jp/products/pro-micro?variant=42225070768359
 
 ## PMW3360はんだ付け 
