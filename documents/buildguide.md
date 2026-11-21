@@ -3,7 +3,7 @@
 Reexトラックボールユニットは、以下のキーボードに取り付けて使用できます。
  
 - [Reex56](https://github.com/kushima8/Reex/blob/main/Reex56/Documents/reex56_buildguide.md) / [Reex67](https://github.com/kushima8/Reex/blob/main/Reex67/Documents/reex67_buildguide.md)  
-  キット付属のユニットと合わせて、左右に一玉ずつのダブルトラックボールにできます。
+  キット付属のユニットに追加して、左右それぞれ2つ、最大4つまでトラックボールを搭載できます。
 - [GBC24](https://github.com/kushima8/GBC24)  
   標準のジョイスティックユニットと交換して、トラックボール仕様にできます。  
   交換後は、トラックボール用（trackball）のファームウェアの書き込みが必要です。  
